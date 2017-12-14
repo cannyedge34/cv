@@ -280,6 +280,9 @@ https://frontendmasters.com/courses/webpack/
 
 https://www.udemy.com/nginx-beginner-to-advanced/
 
+**Master Jenkins CI For DevOps and Developers**  
+https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops/
+
 ## Books
 
 **Learning Path: Go: Concurrency and Design Patterns for Gophers**
